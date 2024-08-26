@@ -51,8 +51,3 @@ Valor Base: R$ 1500.00
 Valor Total com Impostos: R$ 1807.50
 ==============================================
  
-
-
-## Licença
-
-Este projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.

@@ -30,25 +30,36 @@ Este projeto em Java é um sistema para calcular impostos e taxas em operações
 ## Exemplo de Execução
 
 === Bem-vindo ao Sistema de Cálculo de Impostos ===
+
 Digite o nome do item:
-colsultoria
+Consultoria Financeira
+
 Digite o tipo do item:
 1 - Produto
 2 - Serviço
+
 Escolha: 2
+
 Digite o valor base do item (em R$):
-1500
+
+1500.00
+
 ==============================================
 
 === Detalhamento da Operação Comercial ===
+
 Item: colsultoria
 Valor Base: R$ 1500.00
 
 --- Impostos Aplicados ---
+
   - ISS (7,3%): R$ 109.50
   - ICMS (13,2%): R$ 198.00
+
 ----------------------------
+
 Valor Total com Impostos: R$ 1807.50
+
 ==============================================
 
  
